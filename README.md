@@ -51,4 +51,7 @@ Intent here will be **reset**
 
 Entity here will be **userame** and **password**
 
+## Removed section
+headers: { 'Authorization': 'Bearer'
 
+The Bearer ID has been removed from the file for protection.
